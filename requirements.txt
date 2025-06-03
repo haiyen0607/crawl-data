@@ -1,0 +1,6 @@
+requests
+tqdm
+matplotlib
+python-slugify
+beautifulsoup4
+lxml
